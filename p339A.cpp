@@ -4,11 +4,6 @@
 
 using namespace std;
 
-#include <iostream>
-#include <vector>
-#include <algorithm>
-
-using namespace std;
 
 void p339A(string opp) {
     vector<int> nums; // Use vector of integers to store the numbers
